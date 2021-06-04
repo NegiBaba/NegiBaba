@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NegiBaba
+- 👋 Hi, I’m Piyush, a programmer and full stack web developer.
 - 👀 I’m interested in many things, programming, web designing, visualizing algortihms and data strucutres, gaming, astro photgraphy, music to name a few.
 - 🌱 I’m currently learning machine learning and impleting OOPs concept to create games.
 - 💞️ I’m looking to collaborate on any project in C/C++, JAVA or debugging work, creating testcases for any program.
