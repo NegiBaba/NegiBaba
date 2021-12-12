@@ -13,13 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NegiBaba&label=Profile%20views&color=0e75b6&style=flat" alt="NegiBaba" /> </p>
 
-- 📒 I’m currently learning **MERN Stack** and working on side projects.
-
 - 🤝🏻 I’m passionate about bringing the design to their exact look and functionality in development.
 
 - ❤️ I Love challanges and giving it my all.
 
--🧑‍💻 I'm currently learning **Typescript, Redux, Web Designing and Ligntning Web Components**.
+- 🧑‍💻 I'm currently learning **Typescript, Redux, Web Designing and Ligntning Web Components**.
 
 ---
 
