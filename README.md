@@ -17,29 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 - ❤️ I Love challanges and giving it my all.
 
-- 🧑‍💻 I'm currently learning **Typescript, Redux, Web Designing and Ligntning Web Components**.
+- 🧑‍💻 I'm currently learning **Typescript, Web Designing and Machine Learning**.
 
 ---
 
-<!-- TODO: change all the icons and update the links
-<p align="left">
-<h3 align="left"> Let's Connect:</h3>
-<a href="https://codepen.io/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://dev.to/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://twitter.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://facebook.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://instagram.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://dribbble.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="40" /></a>
-<a href="https://www.behance.net/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://medium.com/@frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://frankiefab100.disha.page" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="40" /></a>
-</p> -->
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.yarnpkg.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-<a href="terminal" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.npmjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <a href="https://www.redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a> </p>
+<p align="left"> 
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NegiBaba&show_icons=true" alt="NegiBaba" /></p>
