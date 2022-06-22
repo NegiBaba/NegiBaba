@@ -7,7 +7,7 @@
 
 - ❤️ I Love tackling challanges and doing what people believe to be hard.
 
-- 🧑‍💻 I'm currently learning **Gatsby, SASS and DSA**.
+- 🧑‍💻 Currently challening myself on ***TypeScript and JavaScript***.
 
 - 👀 My hobbies are Astro/Macro photography, Music analysis and Gaming.
 
